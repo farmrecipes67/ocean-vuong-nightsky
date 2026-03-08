@@ -1,0 +1,22 @@
+{
+  "name": "ocean-vuong-nightsky",
+  "version": "1.0.0",
+  "description": "An npm package inspired by Ocean Vuong — generates tender, luminous verses weaving memory, migration, and queer identity.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "poetry",
+    "ocean-vuong",
+    "contemporary",
+    "identity",
+    "literature"
+  ],
+  "author": "papersaurus <farmrecipes@ast.engineer>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/farmrecipes67/ocean-vuong-nightsky"
+  }
+}
